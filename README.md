@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Stats
+![GitHub Stats Card](https://ghstats.dev/api/card?username=DevianoCub&theme=gruvbox&border_radius=0&size=compact)
+![Top Languages](https://ghstats.dev/api/langs?username=DevianoCub&theme=gruvbox&layout=donut)
